@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brcreactor9-solanamcpservice-badge.png)](https://mseep.ai/app/brcreactor9-solanamcpservice)
+
 # Solana MCP (Model Context Protocol) Server
 
 This is an MCP server that allows large language models (LLMs) like Claude to interact with the Solana blockchain. The service provides a set of APIs and WebSocket interfaces that enable AI models to perform operations such as querying balances, sending tokens, retrieving transaction history, creating custom PumpFun tokens, and more.
